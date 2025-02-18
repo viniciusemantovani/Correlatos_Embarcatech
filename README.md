@@ -6,5 +6,3 @@ Os projetos mais próximos encontrados do projeto final por mim desenvolvido se 
 
 3 - https://github.com/HananeAitBenYachou/Math-Quiz-Game
 
-4 - https://github.com/ziul123/snake_game
-
