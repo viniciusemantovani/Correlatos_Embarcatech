@@ -4,7 +4,7 @@ Os projetos mais próximos encontrados do projeto final por mim desenvolvido se 
 
 2 - https://www.hackster.io/divyachandana/mathgpt-a-fun-approach-to-learning-math-with-raspberry-pi-9f2379
 
-3 - https://github.com/HananeAitBenYachou/Math-Quiz-Game?utm_source=chatgpt.com
+3 - https://github.com/HananeAitBenYachou/Math-Quiz-Game
 
 4 - https://github.com/michaelgranberryii/rpi-pico-simon-game
 
